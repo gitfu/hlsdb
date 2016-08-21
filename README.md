@@ -19,4 +19,4 @@ python mkhlstree.py dbname /dir/of/ts-segments
 http://example.com/cgi-bin/hlsbtree.cgi?db=dbname&ts=segment30.ts
 ```
 
-* mm3u8 creation not included ( Check out manifesto for a more complete HLS tool. 
+* m3u8 creation not included ( Check out manifesto for a more complete HLS tool. 
